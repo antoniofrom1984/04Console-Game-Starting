@@ -1,0 +1,12 @@
+/Users/apple/Desktop/ProjectsLeft/04Console-Game-Starting/bin/Debug/netcoreapp2.2/ConsoleGame.deps.json
+/Users/apple/Desktop/ProjectsLeft/04Console-Game-Starting/bin/Debug/netcoreapp2.2/ConsoleGame.runtimeconfig.json
+/Users/apple/Desktop/ProjectsLeft/04Console-Game-Starting/bin/Debug/netcoreapp2.2/ConsoleGame.runtimeconfig.dev.json
+/Users/apple/Desktop/ProjectsLeft/04Console-Game-Starting/bin/Debug/netcoreapp2.2/ConsoleGame.dll
+/Users/apple/Desktop/ProjectsLeft/04Console-Game-Starting/bin/Debug/netcoreapp2.2/ConsoleGame.pdb
+/Users/apple/Desktop/ProjectsLeft/04Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.csprojAssemblyReference.cache
+/Users/apple/Desktop/ProjectsLeft/04Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.AssemblyInfoInputs.cache
+/Users/apple/Desktop/ProjectsLeft/04Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.AssemblyInfo.cs
+/Users/apple/Desktop/ProjectsLeft/04Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/ProjectsLeft/04Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.dll
+/Users/apple/Desktop/ProjectsLeft/04Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.pdb
+/Users/apple/Desktop/ProjectsLeft/04Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.genruntimeconfig.cache
