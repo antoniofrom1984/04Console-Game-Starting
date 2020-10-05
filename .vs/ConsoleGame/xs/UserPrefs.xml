@@ -1,17 +1,23 @@
 ﻿<Properties StartupConfiguration="{F4869AAC-D5C3-41CC-AC43-3F91B44C44E4}|Default">
   <MonoDevelop.Ide.ItemProperties.ConsoleGame PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Game.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SuperGame.cs">
     <Files>
       <File FileName="Program.cs" Line="19" Column="1" />
-      <File FileName="Game.cs" Line="1" Column="1" />
+      <File FileName="Game.cs" Line="65" Column="33" />
+      <File FileName="SuperGame.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ConsoleGame" expanded="True" selected="True">
-            <Node name="ConsoleGame" expanded="True" />
+          <Node name="ConsoleGame" expanded="True">
+            <Node name="ConsoleGame" expanded="True">
+              <Node name="SuperGame.cs" selected="True" />
+            </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

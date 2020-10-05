@@ -15,7 +15,7 @@ namespace ConsoleGame
       char cursor = '<';
       int characterRow = rows / 2;
       int characterCol = cols / 2;
-      char fruit = '@';
+      char fruit = '☼';
       int fruitRow = rand.Next(1, rows);
       int fruitCol = rand.Next(1, cols);
       int score = 0;

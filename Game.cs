@@ -49,18 +49,29 @@ namespace ConsoleGame
         {
             if (cord > max)
             {
-                return 0; // If the player went to the left or top edge, teleport them on the opposite side
+                return 0; 
             }
             else if (cord < 0)
             {
-                return max; // If the player went to the right or bottom edge, teleport them to the opposite side
+                return max; 
             }
             else
             {
-                return cord; // If the player isn't touching any edges just carry on as normal
+                return cord;
+            }
+        }
+        public new static bool DidScore(int CharX, int CharY, int FruitX, int FruitY)
+        {
+            if (CharX == FruitX && CharY == FruitY)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
             }
         }
 
+
     }
-  }
 }
