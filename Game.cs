@@ -45,5 +45,22 @@ namespace ConsoleGame
             }
             return di;
         }
+    public new static int KeepInBounds(int cord, int max)
+        {
+            if (cord > max)
+            {
+                return 0; // If the player went to the left or top edge, teleport them on the opposite side
+            }
+            else if (cord < 0)
+            {
+                return max; // If the player went to the right or bottom edge, teleport them to the opposite side
+            }
+            else
+            {
+                return cord; // If the player isn't touching any edges just carry on as normal
+            }
+        }
+
+    }
   }
 }
